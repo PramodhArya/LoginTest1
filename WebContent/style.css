@@ -1,0 +1,44 @@
+body{
+	color: white;
+	background-color:#33cfe8;
+	font: normal 20px Verdana, Helvetica, sans-serif;
+	margin-top:20px;
+}
+h1{
+	background-color:#2fbfd6;
+	font: bold 48px Verdana, Helvetica, sans-serif;
+	margin-top:0px;
+	text-align:center;
+}
+input{
+	margin: 5px;
+}
+input[type="submit"]{
+	font: bold 15px Verdana, Helvetica, sans-serif;
+	background-color: #31c8e0;
+	color: white;
+	padding: 10px 15px;
+	border: none;
+}
+input[type="submit"]:hover{
+	background-color:#33cfe8; 
+}
+.container{
+	width:80%;
+	margin:auto;
+	text-align:center;
+	border: 10px solid #31c8e0;
+}
+.loginBox{
+	margin:-40px 0px 100px 80%;
+	padding: 100px 10px 100% 10px;
+	background-color: #2fbfd6;
+}
+.createBox{
+	background-color: #2fbfd6;
+	margin-top:-40px;
+	padding:40px 0px 20px 0px;
+}
+.card{
+	background-color:black;
+}
